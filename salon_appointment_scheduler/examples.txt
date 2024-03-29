@@ -1,3 +1,6 @@
+
+# This example file is created by freecodecamp.org.
+
 // Here are two examples of the output of a passing script:
 
 ~~~~~ MY SALON ~~~~~
