@@ -1,5 +1,5 @@
 #! /bin/bash
-PSQL="psql --username=freecodecamp --dbname=salon --tuples-only -c"
+PSQL="psql --username=postgres --dbname=salon --tuples-only -c"
 
 MAIN_MENU() {
     if [[ $1 ]]; then
